@@ -22,4 +22,5 @@
    * I love using Mac but i have Windows.
 
 ## 📫 Contact
-For a quick response, DM me on [Linkedln](www.linkedin.com/in/baljitsingh2005)  
+For a quick response, DM me on [Linkedln](https://www.linkedin.com/in/baljitsingh2005)  
+
