@@ -2,7 +2,7 @@
  #### I'm a 18-year-old developer based in India, and I'm passionate about crafting digital experiences.
 
   * Hello, I.m a front End Web Developer.
-  * Check out my [website](https://www.google.com) to learn about me. (cooming soon)
+  * Check out my [website](https://coderbaljit.github.io/My-Portfolio/) to learn about me. (cooming soon)
 
  ## 📦 Toolbox
  Frontend Basic : `HTML5` `CSS3` `Java Srcipt`  `Material-UI`  <br>
