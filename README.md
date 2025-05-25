@@ -25,5 +25,5 @@
 For a quick response, DM me on [Linkedln](https://www.linkedin.com/in/baljitsingh2005)  
 
 ## 👨‍💻 Extra 
-  * Build [MotionUI](https://motionui.in) Soooooonnnn..... 👨‍💻
+Build [MotionUI](https://motionui.in) Soooooonnnn..... 👨‍💻
 
