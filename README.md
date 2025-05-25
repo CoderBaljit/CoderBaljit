@@ -24,6 +24,6 @@
 ## 📫 Contact
 For a quick response, DM me on [Linkedln](https://www.linkedin.com/in/baljitsingh2005)  
 
-## Extra 
+## 👨‍💻 Extra 
   * Build [MotionUI](https://motionui.in) Soooooonnnn..... 👨‍💻
 
