@@ -5,13 +5,15 @@
   * Check out my [website](https://coderbaljit.github.io/My-Portfolio/) to learn about me. (cooming soon)
 
  ## 📦 Toolbox
- Frontend Basic : `HTML5` `CSS3` `Java Srcipt`  `Material-UI`  <br>
+ 🧑‍💻 Frontend Basic : `HTML5` `CSS3` `Java Srcipt`<br>
  
- CSS Freamworks : `Tailwind CSS` `Bootstrap 5`<br>
+ 🎨 CSS Freamworks : `Tailwind CSS` `Bootstrap 5`<br>
  
- Java Script freamworks : `react js` `express js` `GSAP` `Locomotive JS` <br>
+ ⚛️ Java Script freamworks : `react js`  `Framer motion` `GSAP` `Locomotive JS` <br>
 
- Vision Control : `Git` `Github`
+ 🪄 Animation Libraries : `✨ Framer Motion` `🎞️ GSAP` `🌀 Locomotive Scroll` <br>
+
+ 🗂️ Version Control : `Git` `Github`
 
  #### 🧐 Little bit touch in backend development 
  Backend Touch `PHP` `MYSQL DB` 
