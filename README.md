@@ -13,7 +13,9 @@
 
  🪄 Animation Libraries : `✨ Framer Motion` `🎞️ GSAP` `🌀 Locomotive Scroll` <br>
 
- 🗂️ Version Control : `Git` `Github`
+ 🗂️ Version Control : `Git` `Github` <br>
+
+ 🧱 Builders & Platforms : `Webflow` `WordPress` `Unbounce` `Convertri`
 
  #### 🧐 Little bit touch in backend development 
  Backend Touch `PHP` `MYSQL DB` 
