@@ -5,7 +5,7 @@
   * Check out my [website](https://coderbaljit.github.io/My-Portfolio/) to learn about me. (cooming soon)
 
  ## 📦 Toolbox
- 🧑‍💻 Frontend Basic : `HTML5` `CSS3` `Java Srcipt`<br>
+ 🧑‍💻 Frontend : `HTML5` `CSS3` `Java Srcipt`<br>
  
  🎨 CSS Freamworks : `Tailwind CSS` `Bootstrap 5`<br>
  
