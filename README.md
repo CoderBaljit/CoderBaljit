@@ -1,8 +1,10 @@
  ### Hey, I.m Baljit Singh 👋
- #### I'm a 18-year-old developer based in India, and I'm passionate about crafting digital experiences.
+ Front-End Design Engineer from India, passionate about crafting modern, interactive, and user-centered digital experiences.
 
-  * Hello, I.m a front End Web Developer.
-  * Check out my [website](https://coderbaljit.github.io/My-Portfolio/) to learn about me. (cooming soon)
+  *  💻 Front-End Design Engineer
+  *  🎨 Skilled at transforming Figma designs into production-ready web experiences
+  *  🚀 Passionate about animations, UI engineering, and performance-focused development
+  *  Check out my [website](https://coderbaljit.github.io/My-Portfolio/) to learn about me. (cooming soon)
 
  ## 📦 Toolbox
  🧑‍💻 Frontend : `HTML5` `CSS3` `Java Srcipt`<br>
@@ -12,6 +14,8 @@
  ⚛️ Java Script freamworks : `react js`  `Framer motion` `GSAP` `Locomotive JS` <br>
 
  🪄 Animation Libraries : `✨ Framer Motion` `🎞️ GSAP` `🌀 Locomotive Scroll` <br>
+
+ 🎨 Design UI/UX: `Figma`
 
  🗂️ Version Control : `Git` `Github` <br>
 
@@ -29,5 +33,5 @@
 For a quick response, DM me on [Linkedln](https://www.linkedin.com/in/baljitsingh2005)  
 
 ## 👨‍💻 Extra 
-Build [MotionUI](https://motionui.in) Soooooonnnn..... 👨‍💻
+Build [MotionUI](https://motionui.in) - A collection of modern UI components, animations, and interactive web experiences. 👨‍💻
 
