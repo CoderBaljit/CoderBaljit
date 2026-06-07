@@ -1,8 +1,8 @@
  ### Hey, I.m Baljit Singh 👋
  Front-End Design Engineer from India, passionate about crafting modern, interactive, and user-centered digital experiences.
 
-🎨 Skilled at transforming Figma designs into production-ready web experiences
-🚀 Passionate about animations, UI engineering, and performance-focused development
+🎨 Skilled at transforming Figma designs into production-ready web experiences <br>
+🚀 Passionate about animations, UI engineering, and performance-focused development <br>
 🌐 Check out my [website](https://coderbaljit.github.io/My-Portfolio/) to learn about me. (cooming soon)
 
  ## 📦 Toolbox
